@@ -1,3 +1,7 @@
+https://drerx2023.github.io/Quran/
+
+
+
 
 # Quran Application 
 
